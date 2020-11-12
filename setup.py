@@ -7,16 +7,15 @@
 @Description : 
 """
 
-from setuptools import setup
-# or
-# from distutils.core import setup
+from setuptools import setup, find_packages
+
 
 setup(
-        name='demo',     # 包名字
+        name='my_package',     # 包名字
         version='1.0',   # 包版本
-        description='This is a test of the setup',   # 简单描述
+        description='',   # 简单描述
         author='dosea',  # 作者
         author_email='doosea@163.com',  # 作者邮箱
         url='https://github.com/doosea/mypackage.git',      # 包的主页
-        packages=['demo'],                 # 包
+        packages=find_packages()                # 包
 )
