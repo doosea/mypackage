@@ -1,9 +1,9 @@
-#自定义包的打包与发布
+# 自定义包的打包与发布
 
 [参考连接](https://zhuanlan.zhihu.com/p/276461821?utm_source=wechat_timeline)
 
 
-##包的分发
+## 包的分发
    
    1. 源码包的形式
        - 解压，编译，安装； 
