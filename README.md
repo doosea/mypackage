@@ -21,7 +21,7 @@
             version="1.0",
             author="wangbm",
             author_email="wongbingming@163.com",
-            description="Learn to Pack Python Module  -->公众号：Python编程时光",
+            description="Learn to Pack Python Module",
         
             # 项目主页
             url="http://iswbm.com/", 
