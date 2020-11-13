@@ -19,8 +19,8 @@
         setup(
             name="mytest",
             version="1.0",
-            author="wangbm",
-            author_email="wongbingming@163.com",
+            author="doosea",
+            author_email="doosea@163.com",
             description="Learn to Pack Python Module",
         
             # 项目主页
